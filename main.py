@@ -1,4 +1,4 @@
-n1 = float(input("What is first number, Filipe: "))
+n1 = float(input("What is first number, Filililipe: "))
 op = input("Enter operator (+, -, /, *, %): ")
 n2 = float(input("What is second number, Filipe: "))
 
